@@ -8,6 +8,6 @@ int main(int argc,char* argv[])
 {
     int a =10;
     int b =20;
-    int ret =sum(a,b);
+    //int ret =sum(a,b);
     return 0;
 }
